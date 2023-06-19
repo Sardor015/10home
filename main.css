@@ -141,6 +141,23 @@ ul {
     margin-right: 86px;
     margin-bottom: 79px;
 }
+.section__text3::after{
+    content: "";
+    display: block;
+    height: 1px;
+    width: 61px;
+    background: #C4C4C4;
+    
+
+}
+.section__text4::before{
+    content: "";
+    display: block;
+    height: 1px;
+    width: 61px;
+    background:  #C4C4C4;
+
+}
 
 
 .section__text4 {
